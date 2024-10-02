@@ -17,7 +17,7 @@
   <h1>
  Hi there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Yogesh Kasar
+    I'm VINODKUMAR TALAWAR
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -29,7 +29,7 @@
    
 👨‍💻 **About** **Me**:
 
-I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Mechanical Engg.) from Maharashtra(India).   
+I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Computer science Engg.) from Karnataka (India).   
 - :books: I’m currently learning **Data Analyst/Science** and exploring the fascinating world of data analysis, data visualization, and technology.
 - :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
 - :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
